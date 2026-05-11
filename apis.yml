@@ -30,6 +30,10 @@ apis:
 common:
   - type: Website
     url: https://www.papajohns.com
+  - type: Integrations
+    url: https://www.papajohns.com/integrations
+integrations:
+  - name: 'Papa John''s Homepage'
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
